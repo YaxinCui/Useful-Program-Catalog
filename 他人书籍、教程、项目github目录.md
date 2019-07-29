@@ -14,4 +14,6 @@
 | Nuc8i5beh                                | https://github.com/dongyubin/nuc8i5beh                       | nuc8i5的黑苹果EFI                  |
 | flair                                    | https://github.com/zalandoresearch/flair                     | flair自然语言处理框架使用          |
 | code-of-learn-deep-learning-with-pytorch | https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch | 《深度学习入门之PyTorch》一书课后代码 |
+| Textclassification | https://github.com/Edward1Chou/Textclassification | 中文文本分类对比（经典方法与CNN，2017） |
+| textClassifier | https://github.com/jiangxinyang227/textClassifier | 中文，多个常用文本分类模型 |
 
