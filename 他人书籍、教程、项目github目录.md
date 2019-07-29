@@ -11,6 +11,7 @@
 | text_classification                      | https://github.com/brightmart/text_classification            | 基于深度学习的文本分类模型实现     |
 | TensorFlow-Course                        | https://github.com/machinelearningmindset/TensorFlow-Course  | TensorFlow学习课程                 |
 | cnn-lstm-bilstm-deepcnn-clstm-in-pytorch | https://github.com/bamtercelboo/cnn-lstm-bilstm-deepcnn-clstm-in-pytorch | 基于pytorch的深度学习模式实现      |
-
-
+| Nuc8i5beh                                | https://github.com/dongyubin/nuc8i5beh                       | nuc8i5的黑苹果EFI                  |
+| flair                                    | https://github.com/zalandoresearch/flair                     | flair自然语言处理框架使用          |
+| code-of-learn-deep-learning-with-pytorch | https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch |                                    |
 
