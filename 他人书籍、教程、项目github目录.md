@@ -16,4 +16,6 @@
 | code-of-learn-deep-learning-with-pytorch | https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch | 《深度学习入门之PyTorch》一书课后代码 |
 | Textclassification | https://github.com/Edward1Chou/Textclassification | 中文文本分类对比（经典方法与CNN，2017） |
 | textClassifier | https://github.com/jiangxinyang227/textClassifier | 中文，多个常用文本分类模型 |
+| Tensorflow-101 | https://github.com/sjchoi86/Tensorflow-101 | Jupyter Notebook版的Tensorflow教程 |
+| tensorflow_tutorials | https://github.com/pkmital/tensorflow_tutorials | pkmital写的tensorflow教程（2016.july.12） |
 
