@@ -18,4 +18,14 @@
 | textClassifier | https://github.com/jiangxinyang227/textClassifier | 中文，多个常用文本分类模型 |
 | Tensorflow-101 | https://github.com/sjchoi86/Tensorflow-101 | Jupyter Notebook版的Tensorflow教程 |
 | tensorflow_tutorials | https://github.com/pkmital/tensorflow_tutorials | pkmital写的tensorflow教程（2016.july.12） |
+| tensorflowbook | https://github.com/thewintersun/tensorflowbook               | tensorflow教程每个章节的源码 |
+| torchtext-summary | https://github.com/atnlp/torchtext-summary | torchtext的使用总结，并结合Pytorch实现LSTM |
+| PythonDataScienceHandbook | https://github.com/jakevdp/PythonDataScienceHandbook | 《Python数据科学手册》课后代码 |
+| Intel-NUC-DSDT-Patch | https://github.com/RehabMan/Intel-NUC-DSDT-Patch | Intel NUC 黑苹果Clover配置 |
+| DeepInterests（深度有趣） | https://github.com/Honlan/DeepInterests | 深度有趣 - 人工智能实战项目合集，有大量案例、代码、数据、教程、实现。 |
+| nlp-beginner（复旦：神经网络与深度学习） | https://github.com/FudanNLP/nlp-beginner                     | 复旦大学自然语言处理实验室入学课程 |
+| Git-recipes                              | https://github.com/geeeeeeeeek/git-recipes | 高质量的Git中文教程 |
+| learning-nlp | https://github.com/nlpinaction/learning-nlp | 《Python自然语言处理实战》课后代码与数据集 |
+| NLP研究入门之道 | https://github.com/zibuyu/research_tao | 清华刘知远老师，系统介绍如何入门NLP科研 |
+| google：bert模型 | https://github.com/google-research/bert | google开源的bert模型 |
 
