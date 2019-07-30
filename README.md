@@ -4,6 +4,7 @@ kaggle kernel命令行下，初始化Glove词向量。
 
 !python kaggle_glove_init.py
 
+
 用于记录看过的书籍、教程、项目github或其他资源目录。 这些项目起初在github上都有fork过，出于不易管理、占用github内存、容易与个人项目弄混、直接fork在github上没有标签等原因，将部分项目github地址记录在文件中，便于个人记录与查看。
 
 | 项目名/缩略语                            | 项目链接                                                     | 项目简介                           |
