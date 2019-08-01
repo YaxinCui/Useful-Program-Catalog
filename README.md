@@ -35,4 +35,5 @@ kaggle kernel命令行下，初始化Glove词向量。
 | learning-nlp | https://github.com/nlpinaction/learning-nlp | 《Python自然语言处理实战》课后代码与数据集 |
 | NLP研究入门之道 | https://github.com/zibuyu/research_tao | 清华刘知远老师，系统介绍如何入门NLP科研 |
 | google：bert模型 | https://github.com/google-research/bert | google开源的bert模型 |
+| 超参数网格搜索 | https://github.com/xuman-Amy/Model-evaluation-and-Hypamameter-tuning | 使用sklearn的GridSearchCV进行超参数网格搜索 |
 
