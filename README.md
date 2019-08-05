@@ -37,4 +37,4 @@ kaggle kernel命令行下，初始化Glove词向量。
 | google：bert模型 | https://github.com/google-research/bert | google开源的bert模型 |
 | 超参数网格搜索 | https://github.com/xuman-Amy/Model-evaluation-and-Hypamameter-tuning | 使用sklearn的GridSearchCV进行超参数网格搜索 |
 | pytorch使用网格调参或自动调参 |  |  |
-
+| docker使用方法 | https://yeasy.gitbooks.io/docker_practice/ | docker的基本使用方法与练习 |
