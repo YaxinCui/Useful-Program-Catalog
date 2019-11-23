@@ -1,0 +1,99 @@
+downloadfile
+# anaconda
+https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
+##Pytorch
+conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
+##Tensorflow
+conda install tensorflow-gpu
+---
+# Data
+
+## BERT-Large, Uncased (Whole Word Masking):
+24-layer, 1024-hidden, 16-heads, 340M parameters
+https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip
+## BERT-Large, Cased (Whole Word Masking)
+24-layer, 1024-hidden, 16-heads, 340M parameters
+https://storage.googleapis.com/bert_models/2019_05_30/wwm_cased_L-24_H-1024_A-16.zip
+## BERT-Base, Multilingual Cased
+104 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
+https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip
+## BERT-Base, Chinese: Chinese Simplified and Traditional
+12-layer, 768-hidden, 12-heads, 110M parameters
+https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip
+
+自然语言处理
+【有用、学术】Text Classification Datasets：一个文本分类数据集，包含8个可用于文本分类的子数据集，样本大小从120K到3.6M，问题范围从2级到14级，数据来源于 DBPedia、Amazon、Yelp、Yahoo!、Sogou 和 AG。
+
+地址：http://t.cn/RJDVxr4
+
+【有用、学术】WikiText：由 Salesforce MetaMind 设计的大型语言建模语料库，来源于维基百科文章。
+
+地址：http://t.cn/RJDVSRy/
+
+【有用】Question Pairs：第一个来源于 Quora 的包含重复/语义相似性标签的数据集。
+
+地址：https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs
+
+【有用、学术】SQuAD：斯坦福大学的问答数据集，广泛用于问题回答和阅读理解，其中每个问题和答案都是文本片段的形式。
+
+地址：https://rajpurkar.github.io/SQuAD-explorer/
+
+CMU Q/A Dataset：人工生成的问题/答案对，难度评级来自维基百科文章。
+
+地址：http://www.cs.cmu.edu/~ark/QA-data/
+
+【有用】Maluuba Datasets：用于状态性的自然语言理解研究的人工制作的精细数据集。
+
+地址：https://datasets.maluuba.com/
+
+【有用、学术】Billion Words：一个大型、通用的语言建模数据集，常用于如 word2vec 或 Glove 的分布式词语表征。
+
+地址：http://www.statmt.org/lm-benchmark/
+
+【有用、学术】Common Crawl：Petabyte 级规模的网络爬行数据集，常用于学习词嵌入。
+
+地址：http://commoncrawl.org/the-data/
+
+【学术、经典】bAbi：来自 FAIR 的阅读理解和问答应答数据集。
+
+地址：https://research.fb.com/projects/babi/
+
+【学术】The Children’s Book Test：从古登堡计划的童书中提取的（问题+上下文，答案）的基线，该数据集对问题回答、阅读理解和模拟陈述有用。
+
+地址：https://research.fb.com/projects/babi/
+
+【学术、经典、陈旧】Stanford Sentiment Treebank：一个标准情感数据集，数据集中每个句子解析树的每个节点都有精细的情感注释。
+
+地址：http://nlp.stanford.edu/sentiment/code.html
+
+【经典、陈旧】20 Newsgroups：一个文本分类的经典数据集，通常用于纯分类或作为任何 IR／索引算法的基准。
+
+地址：http://qwone.com/~jason/20Newsgroups/
+
+【经典、陈旧】Reuters：一个较旧，完全基于分类的新闻文本数据集，常用于教程。
+
+地址：http://t.cn/RJDfi7T
+
+【经典、陈旧】IMDB：一个比较旧，规模也相对较小的二院情感分类数据集。
+
+地址：http://ai.stanford.edu/~amaas/data/sentiment/
+
+【经典、陈旧】UCI’s Spambase：这是一个年代较久远的、经典的垃圾电子邮件数据集，来源是著名的 UCI 机器学习库。由于该数据集在设计细节上的独特之处，可以用作学习个性化垃圾邮件过滤的一个有趣的基线。
+
+地址：https://archive.ics.uci.edu/ml/datasets/Spambase
+---
+# Algorithm
+## Xlnet
+
+## Elmo
+
+## Bert
+https://github.com/google-research/bert.git
+## Gpt-2
+https://github.com/openai/gpt-2.git
+## Ernie
+https://github.com/PaddlePaddle/ERNIE.git
+## RoBERTa for Chinese
+https://github.com/brightmart/roberta_zh.git
+## Glove
+https://github.com/stanfordnlp/GloVe
